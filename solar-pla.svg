@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Georgia, 'Times New Roman', serif">
+  <rect width="800" height="500" fill="#f6f3ec"/>
+  <g stroke="#dcd7ca" stroke-width="2">
+    <line x1="0" y1="100" x2="800" y2="100"/>
+    <line x1="0" y1="420" x2="800" y2="420"/>
+  </g>
+  <g fill="#e9e4d8">
+    <rect x="0" y="0" width="800" height="80"/>
+    <rect x="0" y="440" width="800" height="60"/>
+  </g>
+  <text x="400" y="50" text-anchor="middle" fill="#9a917d" font-size="15" letter-spacing="6" font-family="Verdana, sans-serif">PLA D'URGELL</text>
+  <!-- three adjacent parcels -->
+  <g fill="#123f2e" fill-opacity="0.07" stroke="#123f2e" stroke-width="3" stroke-dasharray="10 6">
+    <rect x="110" y="150" width="170" height="230"/>
+    <rect x="310" y="150" width="170" height="230"/>
+    <rect x="510" y="150" width="170" height="230"/>
+  </g>
+  <g fill="#b9903f" font-size="20" text-anchor="middle" font-family="Verdana, sans-serif">
+    <text x="195" y="275">± 300 m²</text>
+    <text x="395" y="275">± 350 m²</text>
+    <text x="595" y="275">± 400 m²</text>
+  </g>
+  <text x="400" y="470" text-anchor="middle" fill="#6b756e" font-size="15" font-family="Verdana, sans-serif">Bellvís · Linyola · El Palau d'Anglesola · Sidamon · Fondarella</text>
+  <g transform="translate(730,60)">
+    <circle r="24" fill="none" stroke="#b9903f" stroke-width="2"/>
+    <path d="M 0 -14 L 6 9 L 0 4 L -6 9 Z" fill="#123f2e"/>
+  </g>
+</svg>

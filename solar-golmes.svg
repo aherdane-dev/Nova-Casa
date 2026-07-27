@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Georgia, 'Times New Roman', serif">
+  <rect width="800" height="500" fill="#f6f3ec"/>
+  <g stroke="#dcd7ca" stroke-width="2">
+    <line x1="0" y1="80" x2="800" y2="80"/>
+    <line x1="90" y1="0" x2="90" y2="500"/>
+    <line x1="90" y1="440" x2="800" y2="440"/>
+  </g>
+  <g fill="#e9e4d8">
+    <rect x="0" y="0" width="800" height="60"/>
+    <rect x="0" y="0" width="70" height="500"/>
+  </g>
+  <text x="430" y="40" text-anchor="middle" fill="#9a917d" font-size="15" letter-spacing="6" font-family="Verdana, sans-serif">URBANITZACIÓ EL COLOMER</text>
+  <!-- parcel: corner plot -->
+  <path d="M 170 130 L 560 150 L 620 400 L 150 390 Z" fill="#123f2e" fill-opacity="0.07" stroke="#123f2e" stroke-width="3" stroke-dasharray="12 7"/>
+  <circle cx="170" cy="130" r="6" fill="#b9903f"/>
+  <circle cx="560" cy="150" r="6" fill="#b9903f"/>
+  <circle cx="620" cy="400" r="6" fill="#b9903f"/>
+  <circle cx="150" cy="390" r="6" fill="#b9903f"/>
+  <text x="390" y="250" text-anchor="middle" fill="#123f2e" font-size="34" font-style="italic">Solar Cantoner</text>
+  <text x="390" y="290" text-anchor="middle" fill="#b9903f" font-size="22" letter-spacing="3" font-family="Verdana, sans-serif">± 505 m²</text>
+  <text x="390" y="325" text-anchor="middle" fill="#6b756e" font-size="14" font-family="Verdana, sans-serif">Golmés · Zona de cases unifamiliars</text>
+  <g transform="translate(720,90)">
+    <circle r="26" fill="none" stroke="#b9903f" stroke-width="2"/>
+    <path d="M 0 -16 L 7 10 L 0 4 L -7 10 Z" fill="#123f2e"/>
+    <text y="44" text-anchor="middle" fill="#123f2e" font-size="14" font-family="Verdana, sans-serif">N</text>
+  </g>
+</svg>
